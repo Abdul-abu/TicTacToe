@@ -1,0 +1,16 @@
+# Secrets - ALWAYS ignore these
+.env
+.env.local
+.env.*
+
+# OS junk - Mac + Windows
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
