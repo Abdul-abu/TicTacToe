@@ -1,3 +1,3 @@
-#TIC TAC TAC TOE GAME
+# TIC TAC TAC TOE GAME
 
 **tic tac toe webgame**
